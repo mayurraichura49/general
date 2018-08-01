@@ -1,0 +1,13 @@
+# Date :- 01/03/2018
+# Author :- Mayur Vijay Raichura
+# This is the .alias file which will get source by your .cshrc file or you can directly put this in your .cshrc but here they have kept all alias in seperate .alias file and then sourced it in .cshrc.
+# You can take the referrence of these alias.
+
+alias mypath  "cd /nfs/sc/stod/areas/m/w.mraichux.100"
+alias p pwd
+alias g gvim
+alias cd1 "cd ../"
+alias cd2 "cd ../../"
+alias cd3 "cd ../../../"
+alias cd4 "cd ../../../../"
+alias cd5 "cd ../../../../../"

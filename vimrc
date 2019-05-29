@@ -18,3 +18,4 @@ set number
 set guifont=cumberland\ 15
 set hls
 set backspace=indent,eol,start
+autocmd BufNewFile,BufReadPre,FileReadPre,BufRead *.v,*.vs,*.sv,*.svh set syntax=verilog
